@@ -8,10 +8,10 @@ public class ifElseDemo {
 
         if (grade > 60) {
             System.out.println("Admitted!");
-        } else if (grade > 40);
-        System.out.println();;
+        } else if (grade > 40){;
+        System.out.println("You have been wait listed");;
 
-        else {
+        } else {
             System.out.println("Please apply again");
         }
     }
